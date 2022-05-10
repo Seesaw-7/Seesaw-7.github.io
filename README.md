@@ -1,2 +1,5 @@
 # wesaw
-Trying to build a personal blog web.
+TODO
+
+- [ ] change background (white/black according to system preference)
+- [ ] publish new blogs through GUI.
